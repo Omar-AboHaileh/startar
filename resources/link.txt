@@ -1,0 +1,12 @@
+
+<!-- <link href="{{URL::assest('css/style.css')}}" rel="stylesheet" /> -->
+
+<!-- Core theme JS-->
+        <!-- <script src="{{URL::assest('js/scripts.js')}}"></script> -->
+        <!-- <script src="{{URL::assest('assesst/mail/jqBootstrapValidation.js')}}"></script>
+        <script src="{{URL::assest('assesst/mail/contact_me.js')}}"></script>
+        <script src="{{URL::assest('js/scripts.js')}}"></script> -->
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <!-- * *                               SB Forms JS                               * *-->
+        <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
